@@ -7,7 +7,7 @@ import { TambahDataComponent } from './tambah-data/tambah-data.component';
 import { DeleteDataComponent } from './delete-data/delete-data.component';
 
 const routes: Routes = [
-  {path:"dashbwoard", component:DashboardComponent},
+  {path:"dashboard", component:DashboardComponent},
   {path:"divisi", component:DivisionComponent},
   {path:"edit", component:EditDataComponent},
   {path:"tambah", component:TambahDataComponent},
